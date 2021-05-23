@@ -1,38 +1,48 @@
 {
-  "name": "react_initial_setup",
-  "version": "1.0.0",
-  "main": "index.js",
-  "author": "Vantol Bennett <teckcare2011@gmail.com>",
-  "license": "MIT",
-  "scripts": {
-    "serve": "webpack serve --mode development",
-    "build": "webpack --mode production"
-  },
-  "dependencies": {
-    "@hot-loader/react-dom": "^17.0.1",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
-    "react-hot-loader": "^4.13.0"
-  },
-  "devDependencies": {
-    "@babel/core": "^7.14.3",
-    "@babel/preset-env": "^7.14.2",
-    "@babel/preset-react": "^7.13.13",
-    "@pmmmwh/react-refresh-webpack-plugin": "^0.4.3",
-    "babel-loader": "^8.2.2",
-    "css-loader": "^5.2.5",
-    "csv-loader": "^3.0.3",
-    "file-loader": "^6.2.0",
-    "html-webpack-plugin": "^5.3.1",
-    "nodemon": "^2.0.7",
-    "react-refresh": "^0.10.0",
-    "style-loader": "^2.0.0",
-    "webpack": "^5.37.1",
-    "webpack-cli": "^4.7.0",
-    "webpack-dev-middleware": "^4.3.0",
-    "webpack-dev-server": "^3.11.2",
-    "webpack-hot-middleware": "^2.25.0",
-    "webpack-node-externals": "^3.0.0",
-    "xml-loader": "^1.2.1"
-  }
+    "name": "react_initial_setup",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "titan-65/automatic-giggle",
+    "license": "MIT",
+    "scripts": {
+        "serve": "webpack serve --mode development",
+        "build": "webpack --mode production",
+        "test": "exit 0"
+    },
+    "dependencies": {
+        "@hot-loader/react-dom": "^17.0.1",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2",
+        "react-hot-loader": "^4.13.0"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.14.3",
+        "@babel/preset-env": "^7.14.2",
+        "@babel/preset-react": "^7.13.13",
+        "@pmmmwh/react-refresh-webpack-plugin": "^0.4.3",
+        "babel-loader": "^8.2.2",
+        "css-loader": "^5.2.5",
+        "csv-loader": "^3.0.3",
+        "file-loader": "^6.2.0",
+        "html-webpack-plugin": "^5.3.1",
+        "nodemon": "^2.0.7",
+        "react-refresh": "^0.10.0",
+        "style-loader": "^2.0.0",
+        "webpack": "^5.37.1",
+        "webpack-cli": "^4.7.0",
+        "webpack-dev-middleware": "^4.3.0",
+        "webpack-dev-server": "^3.11.2",
+        "webpack-hot-middleware": "^2.25.0",
+        "webpack-node-externals": "^3.0.0",
+        "xml-loader": "^1.2.1"
+    },
+    "description": "",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/titan-65/automatic-giggle.git"
+    },
+    "bugs": {
+        "url": "https://github.com/titan-65/automatic-giggle/issues"
+    },
+    "homepage": "https://github.com/titan-65/automatic-giggle#readme"
 }
